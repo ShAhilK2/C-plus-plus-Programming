@@ -23,5 +23,4 @@
 - Compound Conditional Statements
 - Dynamic Declaration
 - Switch Case Statement Statements
-- Dynamic Declaration
-- Switch Case Statement
+
