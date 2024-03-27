@@ -16,23 +16,12 @@ Learn:
 - Type casting 
 - Enumerations and typedefs
 
-
-Conditional Statements :
-Relational Operators:
-
-< (less than)
-> (greater than)
-<= (less than or equal to)
->= (greater than or equal to)
-== (equal to)
-!= (not equal to)
-Logical Operators:
-
-&& (logical AND)
-|| (logical OR)
-! (logical NOT)
-
-Short Circuit 
-Compound Conditional Statements
-Dynamic Declaration
-Switch Case Statement
+-Conditional Statements 
+-Relational Operators: <, >, <=, >=, ==, !=
+-Logical Operators: &&, ||, !
+-Short Circuit Evaluation
+-Compound Conditional Statements
+-Dynamic Declaration
+-Switch Case Statement Statements
+-Dynamic Declaration
+-Switch Case Statement
