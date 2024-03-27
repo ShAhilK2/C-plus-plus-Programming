@@ -1,8 +1,9 @@
 # C++ Programming
 
-Leaning C++ Programming 
+## Learning C++ Programming
 
-Learn:
+### Learn:
+
 - How to include libraries
 - Input and output using cout and cin
 - Variables and their usage
@@ -15,13 +16,12 @@ Learn:
 - Compound operations 
 - Type casting 
 - Enumerations and typedefs
-
--Conditional Statements 
--Relational Operators: <, >, <=, >=, ==, !=
--Logical Operators: &&, ||, !
--Short Circuit Evaluation
--Compound Conditional Statements
--Dynamic Declaration
--Switch Case Statement Statements
--Dynamic Declaration
--Switch Case Statement
+- Conditional Statements 
+- Relational Operators: <, >, <=, >=, ==, !=
+- Logical Operators: &&, ||, !
+- Short Circuit Evaluation
+- Compound Conditional Statements
+- Dynamic Declaration
+- Switch Case Statement Statements
+- Dynamic Declaration
+- Switch Case Statement
